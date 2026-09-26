@@ -37,9 +37,9 @@ Accuracy Reports: Measure predictive success.
 📝 Author
 Sandeep Vemuri
 
-💼 LinkedIn
+💼 LinkedIn:  
 📧 Email: sandeepvemurivemuri3191@gmail.com
 
 📜 License
-This repository is licensed under the MIT License. Use it freely with proper attribution.
+  This repository is licensed under the MIT License. Use it freely with proper attribution.
 
