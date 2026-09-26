@@ -35,12 +35,10 @@ Silhouette Plots: Assess clustering quality.
 Feature Importance Charts: Identify influential features.
 Accuracy Reports: Measure predictive success.
 📝 Author
-Sai Teja
+Sandeep Vemuri
 
 💼 LinkedIn
-📧 Email: saiteja1903@gmail.com
-🤝 Contributions
-Contributions and suggestions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
+📧 Email: sandeepvemurivemuri3191@gmail.com
 
 📜 License
 This repository is licensed under the MIT License. Use it freely with proper attribution.
