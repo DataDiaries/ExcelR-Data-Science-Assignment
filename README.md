@@ -1,4 +1,4 @@
-# ExcelR-Data-Science-Assignment
+# ExcelR-Data-Science-Assignments
 All the ExcelR Assignments
  What is Data Science?
 Data Science is a multidisciplinary field that combines statistical techniques, machine learning, and programming to extract insights and knowledge from structured and unstructured data. It plays a pivotal role in solving real-world problems across industries like healthcare, finance, retail, and technology by enabling data-driven decision-making.
