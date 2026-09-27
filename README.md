@@ -37,7 +37,7 @@ Accuracy Reports: Measure predictive success.
 📝 Author
 Sandeep Vemuri
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/sandeep-vemuri-5536a0245/
 
 
 
